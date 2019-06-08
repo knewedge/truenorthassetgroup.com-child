@@ -1,0 +1,214 @@
+div.row{
+	margin:0 !important;
+}
+/*Navigation*/
+.header-skin-light [class*=nav__menu] .nav__title::before{
+	background-color:transparent!important;
+}
+.primary-navbar__wrapper{
+	background-color:rgba(255,255,255,1)!important;
+}
+span.nav__title{
+	color:#313131!important;
+}
+a:hover{
+	color:#d1083e!important;
+}
+span.nav__title:hover{
+	color:#d1083e!important;
+}
+li.nav__search {
+	display:none!important;
+}
+#main-wrapper{
+	padding:0!important;
+}
+.carousel-caption{
+	text-align:left!important;
+}
+/*HP Title Desktop*/
+@media(min-width:576px){
+	h2.czrs-title{
+		font-size:3.5em!important;
+		line-height:0.9em!important;
+	}
+	h3.czrs-subtitle{
+		font-size:2.5em!important;
+		line-height:0.9em!important;
+	}
+}
+/*HP Title Mobile*/
+@media(max-width:575px){
+	h2.czrs-title{
+		font-size:2.5em!important;
+		line-height:0.9em!important;
+	}
+	h3.czrs-subtitle{
+		font-size:1.5em!important;
+		line-height:0.9em!important;
+	}
+}
+.section h3{
+	font-weight:bold;
+    font-size:30px;
+	color:#d1083e!important;
+}
+.center-h3{
+	text-align:center;
+}
+.fpc-marketing{
+	width:100%!important;
+	max-width:100%!important;
+}
+.services-section-widget{
+	padding:0 20px 20px 20px;
+	/*background-color:#999999;*/
+}
+.services-section-title{
+	margin:0;
+	padding:20px 0 20px 0;
+	text-align:center;
+	color:#d1083e!important;
+	font-weight:bold;
+	font-size:2em;
+}
+a.btn-danger{
+	color:#ffffff!important;
+    background-color:#d1083e!important;
+    border-color:#d43f3a!important;
+}
+/*Featured Listings*/
+.featured-section-wrap{
+	background-color:#000000;
+	padding:1px 0 20px 0;
+}
+.fpc-marketing{
+	margin-bottom:2em!important;
+}
+.fpc-marketing .fpc-widget-front .fp-title::after{
+	width:70%!important;
+}
+.fpc-btn-primary{
+	background:#d1083e!important;
+}
+#see-all-link{
+	color:#ffffff;
+	font-weight:bold;
+}
+/*Red Contact Deck*/
+#contact-section{
+	padding:0 20px 20px 20px;
+	background-color:#d1083e;
+	color:#ffffff;	
+}
+.getintouch-section-title, #contact-second-col .connected-section-widget:nth-child(1) .connected-section-title{
+	margin:0;
+	padding:20px 0 5px 0;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:2em;
+}
+ #contact-second-col .connected-section-widget:nth-child(2) .connected-section-title{
+	color:#ffffff;
+	font-weight:normal;
+	font-size:1em;
+ }
+.connected-section-widget a.fab{
+	color:#ffffff!important;
+	font-size: 2em!important;
+	padding-right:25px;
+}
+.connected-section-widget a.fab:nth-child(-n+4){
+	padding-right:25px;
+}
+.gf_simple_horizontal{
+	width:100%!important;
+}
+.gform_body{
+	width:75%!important;	
+}
+.connected-section-widget label.gfield_label{
+	display:none!important;
+}
+#gform_submit_button_2{
+    background-color:#000000;
+    color:#ffffff;
+    border-color:#333333;
+}
+/*Black Footer*/
+#footer{
+	background:#000000!important;
+	color:#ffffff;
+}
+#footer .col-md-6:nth-child(1){
+	padding-left:30px;
+}
+#footer a{
+	color:#ffffff;
+}
+.footer__wrapper{
+	padding:0!important;
+}
+/*Listing Page*/
+.featured-image{
+	width:100%;
+	max-height:500px;
+	padding:20px 15px 0 15px;
+}
+.featured-image img{
+	width:100%;
+	margin-top:-75px;
+}
+.listing-title{
+	font-size:2.2em!important;
+    font-weight:bold!important;
+}
+.listing-left{
+	padding-left:30px!important;
+}
+.listing-right{
+	padding-right:30px!important;
+}
+.image-selector{
+	margin:30px 0 30px 0;
+}
+.sb-realtor{
+	margin-top:2.75em;
+	border:solid 4px #999999;
+	padding:5px;
+}
+.sb-realtor a.btn-danger{
+	margin-top:1em;
+}
+/*Search & Filter*/
+.searchandfilter > ul{
+	columns: 3;
+}
+.searchandfilter > ul > li {
+	display: inline-block;
+}
+/*Removed 2/4/19
+#custom-submit-btn{
+	padding:0.5rem 0 1rem 3.5rem;
+}
+*/
+/*Footer*/
+.footer-skin-dark .footer__wrapper #colophon{
+	background:#000000!important;
+}
+.footer__wrapper .colophon__row{
+	margin:0!important;
+	padding:0!important;
+}
+.footer__credits{
+	color:#ffffff!important;
+	font-family:roboto!important;
+	font-size:1rem!important;
+	margin:0!important;
+}
+/*Custom Footer*/
+#footer p{
+	margin:0!important;
+	letter-spacing:1px;
+	font-size: 0.75rem!important;
+}
