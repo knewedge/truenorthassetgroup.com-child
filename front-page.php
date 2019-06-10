@@ -9,12 +9,17 @@
 
 <div class="container">
     <section class="services">
-    <div class="row">
-        <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service1.png"></div>
-        <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service2.png"></div>
-        <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service3.png"></div>
-        <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service4.png"></div>
-    </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h1>OUR SERVICES</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service1.png"></div>
+            <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service2.png"></div>
+            <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service3.png"></div>
+            <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service4.png"></div>
+        </div>
     </section>
 </div>
 
