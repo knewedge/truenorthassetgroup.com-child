@@ -85,6 +85,12 @@ section.property-management p {
 FOOTER
 **********************/ 
 
+footer h3 {
+    color:#fff;
+    font-size:18px;
+    font-weight: bold;
+}
+
 footer {
     min-height: 400px; /*remove min for mobile */
     background: #222;
