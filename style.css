@@ -32,6 +32,8 @@ section {
 }
 a:hover{
 	color:#d1083e!important;
+}
+.nav__menu .menu-item:hover {
     border-bottom: solid 3px #d1083e;
 }
 
