@@ -34,6 +34,15 @@
         </div>
     </section>
 </div>
+<div id="main-wrapper" class="section">
+	<div class="featured-section-wrap">
+		<h3 class="center-h3" style="color:#ffffff!important;">Featured Listings</h3>
+		<?php do_action('__before_main_container'); ?>
+		<div style="text-align:center;">
+			<a id="see-all-link" href="/rapidcity/search">See all listings >></a>
+		</div>
+	</div>
+</div>
 
 
 
