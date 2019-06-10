@@ -35,7 +35,7 @@
     </section>
     <section class="featured-listings">
         <div class="row">
-            <div class="col-md-12"></div>
+            <div class="col-md-12">
                 <h1 class="text-center">FEATURED LISTINGS</h1>
             </div>
         </div>
