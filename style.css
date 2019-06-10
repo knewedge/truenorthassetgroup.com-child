@@ -11,6 +11,18 @@ Version:        1.0.0
 /* Your awesome customizations start right here !
 -------------------------------------------------------------- */
 
+/**********************
+GLOBAL STYLES 
+**********************/ 
+
+section {
+    margin-top:40px;
+}
+
+
+/**********************
+SERVICES SECTION
+**********************/ 
 
 .services img{
     height: 150px;
