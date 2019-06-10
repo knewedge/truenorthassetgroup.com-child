@@ -9,11 +9,11 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4 text-center">4-col</div>
-        <div class="col-md-4 text-center">4-col</div>
-        <div class="col-md-4 text-center">4-col</div>
+        <div class="col-md-3 text-center"><img src="https://truenorthassetgroup.com/wp-content/uploads/2019/03/service1.png"></div>
+        <div class="col-md-3 text-center"><img src="https://truenorthassetgroup.com/wp-content/uploads/2019/03/service2.png"></div>
+        <div class="col-md-3 text-center"><img src="https://truenorthassetgroup.com/wp-content/uploads/2019/03/service3.png"></div>
+        <div class="col-md-3 text-center"><img src="https://truenorthassetgroup.com/wp-content/uploads/2019/03/service4.png"></div>
     </div>
-
 </div>
 
 
