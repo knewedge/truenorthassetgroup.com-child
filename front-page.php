@@ -7,6 +7,19 @@
 <?php get_header(); ?>
 <?php do_action('__before_main_wrapper'); ?>
 
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">4-col</div>
+        <div class="col-md-4">4-col</div>
+        <div class="col-md-4">4-col</div>
+    </div>
+
+</div>
+
+
+
+
+
 
 <?php /*
 <a name="services"></a>
