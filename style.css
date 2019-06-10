@@ -24,6 +24,12 @@ h2 {
 section {
     margin-top:75px;
 }
+.btn-red {
+    background: #D1083E;
+    color: #fff;
+    font-size: 14px;
+    padding: 14px 0px 14px 0px;
+}
 
 
 /**********************

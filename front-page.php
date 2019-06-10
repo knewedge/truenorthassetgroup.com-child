@@ -47,7 +47,10 @@
                 
                 <p>True North Asset Group provides property management services throughout the Black Hills. We can help you get the most return on your investment properties and take care of the day-to-day operations so you don’t have to. With our integrated approach, our team can manage and lease your properties and keep your tenants happy.</p>
                 
-                <p>Arrow section with red boxes - plugin/dynamic</p>
+                <p class="text-center">Arrow section with red boxes - plugin/dynamic</p>
+                
+                <h2>Request a free management proposal or accounting report sample.</h2>
+                <p class="text-center"><button type="button" class="btn btn-red">Primary</button></p>
                 
                 
             </div>
