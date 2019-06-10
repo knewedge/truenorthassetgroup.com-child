@@ -50,7 +50,7 @@
                 <p class="text-center">Arrow section with red boxes - plugin/dynamic</p>
                 
                 <h2>Request a free management proposal or accounting report sample.</h2>
-                <p class="text-center"><button type="button" class="btn btn-red">Primary</button></p>
+                <p class="text-center"><button type="button" class="btn btn-red">Contact Us Today!</button></p>
                 
                 
             </div>
