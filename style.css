@@ -62,3 +62,12 @@ section.property-management { /*this may become a global element*/
 section.property-management p {
     font-size:18px;
 }
+
+/**********************
+FOOTER
+**********************/ 
+
+footer {
+    min-height: 400px; /*remove min for mobile */
+    background: #222;
+}
