@@ -53,3 +53,6 @@ PROPERTY MANAGEMENT
 section.property-management { /*this may become a global element*/
     margin-bottom: 50px;
 }
+section.property-management > p {
+    font-size:18px;
+}
