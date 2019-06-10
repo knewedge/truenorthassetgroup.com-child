@@ -45,3 +45,11 @@ FEATURED LISTINGS
 section.featured-listings h1 { /*this may become a global element*/
     margin-bottom: 50px;
 }
+
+/**********************
+PROPERTY MANAGEMENT 
+**********************/ 
+
+section.property-management { /*this may become a global element*/
+    margin-bottom: 50px;
+}
