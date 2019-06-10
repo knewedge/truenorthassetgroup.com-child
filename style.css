@@ -31,6 +31,6 @@ SERVICES SECTION
     height: 150px;
     width: 150px;
 }
-.servies h1 {  /*this may become a global element*/
+section.services h1 {  /*this may become a global element*/
     margin-bottom: 50px;
 }
