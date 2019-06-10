@@ -15,6 +15,7 @@
     font-weight: bold;
 }
 </style>
+<?php /*
 <div id="main-wrapper" class="section">
 	<div class="featured-section-wrap">
 		<h3 class="center-h3" style="color:#ffffff!important;">Featured Listings</h3>
@@ -28,6 +29,10 @@
 	<div class="col-md-6"><?php dynamic_sidebar('getintouch-section'); ?></div>
 	<div id="contact-second-col" class="col-md-6"><?php dynamic_sidebar('connected-section'); ?></div>
 </div>
+
+*/ ?>
+
+
 <?php //get_footer(); ?>
  <!-- FOOTER -->
  <footer id="footer" class="<?php echo czr_fn__f('tc_footer_classes', '') ?>">
