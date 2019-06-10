@@ -10,3 +10,9 @@ Version:        1.0.0
 
 /* Your awesome customizations start right here !
 -------------------------------------------------------------- */
+
+
+services.img {
+    height: 150px;
+    width: 150px;
+}

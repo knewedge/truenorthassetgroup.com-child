@@ -8,12 +8,14 @@
 <?php do_action('__before_main_wrapper'); ?>
 
 <div class="container">
+    <section class="services">
     <div class="row">
         <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service1.png"></div>
         <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service2.png"></div>
         <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service3.png"></div>
         <div class="col-md-3 text-center"><img src="/wp-content/uploads/2019/03/service4.png"></div>
     </div>
+    </section>
 </div>
 
 
