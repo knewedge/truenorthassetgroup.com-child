@@ -12,6 +12,15 @@ Version:        1.0.0
 -------------------------------------------------------------- */
 
 /**********************
+OVERRIDES  
+**********************/ 
+.tc-header {
+    width:100%;
+    margin-top: -32px;
+}
+/************---------------HEADER STILL NEEDS FIXED FOR SCROLL! */
+
+/**********************
 GLOBAL STYLES 
 **********************/ 
 h1 {
@@ -29,6 +38,15 @@ section {
     color: #fff;
     font-size: 14px;
     padding: 14px 20px 14px 20px;
+}
+a:hover{
+	color:#d1083e!important;
+}
+.nav__menu .menu-item { /*fixes menu from jumping on hover*/
+    border-bottom: solid 3px #fff;
+}
+.nav__menu .menu-item:hover {
+    border-bottom: solid 3px #d1083e;
 }
 
 
