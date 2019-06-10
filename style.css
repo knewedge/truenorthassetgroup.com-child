@@ -89,3 +89,6 @@ footer {
     min-height: 400px; /*remove min for mobile */
     background: #222;
 }
+.footer-content p {
+    color: #777;
+}

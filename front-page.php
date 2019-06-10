@@ -63,8 +63,11 @@
 
 <footer>
     <div class="container">
-        <div class="row">
-            <div class="col-md-3">3-col</div>
+        <div class="row footer-content">
+            <div class="col-md-3">
+                <h3>ABOUT</h3>
+                <p>True North Asset Group is Rapid City’s newest commercial real estate team from Keller Williams Realty Black Hills. READ MORE .</p>
+            </div>
             <div class="col-md-3">3-col</div>
             <div class="col-md-3">3-col</div>
             <div class="col-md-3">3-col</div>
