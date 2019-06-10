@@ -37,3 +37,11 @@ SERVICES SECTION
 section.services h1 {  /*this may become a global element*/
     margin-bottom: 50px;
 }
+
+/**********************
+FEATURED LISTINGS 
+**********************/ 
+
+section.featured-listings h1 { /*this may become a global element*/
+    margin-bottom: 50px;
+}
