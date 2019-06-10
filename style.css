@@ -117,5 +117,7 @@ footer {
 
 .footer-icons:hover {
     background-color: #D1083E;
-    color: #fff;
+}
+footer .fa-fw {
+    color:#fff;
 }
