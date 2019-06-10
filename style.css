@@ -12,7 +12,7 @@ Version:        1.0.0
 -------------------------------------------------------------- */
 
 
-services.img {
+.services img{
     height: 150px;
     width: 150px;
 }
