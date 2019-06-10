@@ -6,16 +6,14 @@
 ?>
 <?php get_header(); ?>
 <?php do_action('__before_main_wrapper'); ?>
-<a name="services"></a>
-<?php dynamic_sidebar('services-section'); ?>
-<style>
-/*Override styles on index.php*/
-.fpc-marketing .fpc-widget-front .fp-title{
-	font-size: 1.2em;
-    font-weight: bold;
-}
-</style>
+
+
 <?php /*
+<a name="services"></a>
+
+<?php dynamic_sidebar('services-section'); ?>
+
+
 <div id="main-wrapper" class="section">
 	<div class="featured-section-wrap">
 		<h3 class="center-h3" style="color:#ffffff!important;">Featured Listings</h3>
