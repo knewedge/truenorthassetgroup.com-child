@@ -43,8 +43,13 @@
     <section class="property-management">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="property-management">PROPERTY MANAGEMENT</h1>
+                <h1 class="text-center">PROPERTY MANAGEMENT</h1>
+                
                 <p>True North Asset Group provides property management services throughout the Black Hills. We can help you get the most return on your investment properties and take care of the day-to-day operations so you don’t have to. With our integrated approach, our team can manage and lease your properties and keep your tenants happy.</p>
+                
+                <p>Arrow section with red boxes - plugin/dynamic</p>
+                
+                
             </div>
         </div>
     </section>
