@@ -18,6 +18,9 @@ OVERRIDES
     width:100%;
     margin-top: -32px;
 }
+.fpc-container {
+    background-color:#fff !important;
+}
 /************---------------HEADER STILL NEEDS FIXED FOR SCROLL! */
 
 /**********************
