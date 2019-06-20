@@ -25,6 +25,7 @@ OVERRIDES
 .btn-skin-h-dark:hover, .btn-skin-h-dark:focus, .btn-skin-h-dark:active {
     background: #D1083E;
     border-color: #D1083E;
+    color: #fff!important;
 }
 /************---------------HEADER STILL NEEDS FIXED FOR SCROLL! */
 
