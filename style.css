@@ -21,6 +21,11 @@ OVERRIDES
 .fpc-container {
     background-color:#fff !important;
 }
+/*override hover button color on hero section */ 
+.btn-skin-h-dark:hover, .btn-skin-h-dark:focus, .btn-skin-h-dark:active {
+    background: #D1083E;
+    border-color: #D1083E;
+}
 /************---------------HEADER STILL NEEDS FIXED FOR SCROLL! */
 
 /**********************
