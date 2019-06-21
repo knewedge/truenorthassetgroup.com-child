@@ -53,38 +53,9 @@
                 
                 <!-- START OF ARROW SECTON -->
                 
-                
-                    <div class="smile_icon_list_wrap ult_info_list_container ult-adjust-bottom-margin   info_list">
-                                                <ul class="smile_icon_list top square with_bg">
-                                                    <li class="icon_list_item" style=" font-size:72px;">
-                                                        <div class="icon_list_icon" data-animation="" data-animation-delay="03" style="font-size:24px;border-width:1px;border-style:none;background:#d1083e;color:#ffffff;border-color:#333333;"><i class="Defaults-arrow-right"></i></div>
-                                                        <div class="icon_description" id="Info-list-wrap-3259" style="font-size:24px;">
-                                                            <h3 class="ult-responsive info-list-heading" data-ultimate-target='#Info-list-wrap-3259 h3' data-responsive-json-new='{"font-size":"desktop:16px;","line-height":"desktop:24px;"}' style="">Tenant Access</h3>
-                                                            <div class="icon_description_text ult-responsive" data-ultimate-target='#Info-list-wrap-3259 .icon_description_text' data-responsive-json-new='{"font-size":"desktop:13px;","line-height":"desktop:18px;"}' style=""></div>
-                                                        </div>
-                                                        <div class="icon_list_connector" data-animation="fadeInLeft" data-animation-delay="03" style="border-top-width: 3px;border-top-style: dashed;border-color: #333333;top: 35.5px;"></div>
-                                                        <a class="ulimate-info-list-link" href="https://tnorth.twa.rentmanager.com/"></a>
-                                                    </li>
-                                                    <li class="icon_list_item" style=" font-size:72px;">
-                                                        <div class="icon_list_icon" data-animation="" data-animation-delay="03" style="font-size:24px;border-width:1px;border-style:none;background:#d1083e;color:#ffffff;border-color:#333333;"><i class="Defaults-arrow-right"></i></div>
-                                                        <div class="icon_description" id="Info-list-wrap-5743" style="font-size:24px;">
-                                                            <h3 class="ult-responsive info-list-heading" data-ultimate-target='#Info-list-wrap-5743 h3' data-responsive-json-new='{"font-size":"desktop:16px;","line-height":"desktop:24px;"}' style="">Tenant Application</h3>
-                                                            <div class="icon_description_text ult-responsive" data-ultimate-target='#Info-list-wrap-5743 .icon_description_text' data-responsive-json-new='{"font-size":"desktop:13px;","line-height":"desktop:18px;"}' style=""></div>
-                                                        </div>
-                                                        <div class="icon_list_connector" data-animation="fadeInLeft" data-animation-delay="03" style="border-top-width: 3px;border-top-style: dashed;border-color: #333333;top: 35.5px;"></div>
-                                                        <a class="ulimate-info-list-link" href="https://tnorth.twa.rentmanager.com/applynow"></a>
-                                                    </li>
-                                                    <li class="icon_list_item" style=" font-size:72px;">
-                                                        <div class="icon_list_icon" data-animation="" data-animation-delay="03" style="font-size:24px;border-width:1px;border-style:none;background:#d1083e;color:#ffffff;border-color:#333333;"><i class="Defaults-arrow-right"></i></div>
-                                                        <div class="icon_description" id="Info-list-wrap-3397" style="font-size:24px;">
-                                                            <h3 class="ult-responsive info-list-heading" data-ultimate-target='#Info-list-wrap-3397 h3' data-responsive-json-new='{"font-size":"desktop:16px;","line-height":"desktop:24px;"}' style="">Property Owner Access</h3>
-                                                            <div class="icon_description_text ult-responsive" data-ultimate-target='#Info-list-wrap-3397 .icon_description_text' data-responsive-json-new='{"font-size":"desktop:13px;","line-height":"desktop:18px;"}' style=""></div>
-                                                        </div>
-                                                        <div class="icon_list_connector" data-animation="fadeInLeft" data-animation-delay="03" style="border-top-width: 3px;border-top-style: dashed;border-color: #333333;top: 35.5px;"></div>
-                                                        <a class="ulimate-info-list-link" href="https://tnorth.owa.rentmanager.com/"></a>
-                                                    </li>
-                                                </ul>
-                                            </div>
+                <p class="text-center">
+                    <img src="/wp-content/uploads/2019/06/property-mang.png" alt"property management">
+                </p>
                 
                 <!-- END OF ARROW SECTION -->
                 
