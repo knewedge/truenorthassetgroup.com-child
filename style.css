@@ -89,6 +89,9 @@ section.property-management { /*this may become a global element*/
 section.property-management p {
     font-size:18px;
 }
+section.property-management h2 {
+    text-align:center;
+}
 
 /**********************
 FOOTER
