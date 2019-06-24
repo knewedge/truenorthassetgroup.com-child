@@ -29,13 +29,16 @@
                 <p>listing - dyanmic</p>
             </div>
             <div class="col-md-3">
-                <h3>OUR NEWSLETTER</h3>
+		<h3>OUR NEWSLETTER</h3>
+		<?php echo do_shortcode("[gravityform id=3 title=false description=false]"); ?>
+		<!-- Matt's HTML
                 <div class="input-group mb-3">
-  <input type="text" class="form-control" placeholder="search" aria-label="search" aria-describedby="basic-addon2">
-  <div class="input-group-append">
-    <span class="input-group-text" id="basic-addon2">GO</span>
-  </div>
-</div>
+			<input type="text" class="form-control" placeholder="search" aria-label="search" aria-describedby="basic-addon2">
+  			<div class="input-group-append">
+    				<span class="input-group-text" id="basic-addon2">GO</span>
+  			</div>
+		</div>
+		-->
             </div>
         </div>
     </div>
