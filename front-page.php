@@ -16,19 +16,19 @@
         </div>
         <div class="row">
             <div class="col-md-3 text-center">
-                <img src="/wp-content/uploads/2019/03/service1.png">
+                <a href="/sales/"><img src="/wp-content/uploads/2019/03/service1.png"></a>
                 <h2 class="text-center">Commercial Sales</h2>
             </div>
             <div class="col-md-3 text-center">
-                <img src="/wp-content/uploads/2019/03/service2.png">
+                <a href="/leasing/"><img src="/wp-content/uploads/2019/03/service2.png"></a>
                 <h2 class="text-center">Commercial Leasing</h2>
             </div>
             <div class="col-md-3 text-center">
-                <img src="/wp-content/uploads/2019/03/service3.png">
+                <a href="/property-management/"><img src="/wp-content/uploads/2019/03/service3.png"></a>
                 <h2 class="text-center">Property Management</h2>
             </div>
             <div class="col-md-3 text-center">
-                <img src="/wp-content/uploads/2019/03/service4.png">
+                <a href="/bookkeeping-business-services/"><img src="/wp-content/uploads/2019/03/service4.png"></a>
                 <h2 class="text-center">Business Services</h2>
             </div>
         </div>
