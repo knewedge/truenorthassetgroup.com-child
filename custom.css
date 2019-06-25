@@ -76,6 +76,7 @@ a.btn-danger{
 }
 /*Featured Listings*/
 .featured-section-wrap{
+	background-color:#f7f7f7;
 	padding:1px 0 20px 0;
 }
 .fpc-marketing{
