@@ -71,12 +71,11 @@ li.nav__search {
 }
 a.btn-danger{
 	color:#ffffff!important;
-    background-color:#d1083e!important;
-    border-color:#d43f3a!important;
+    	background-color:#d1083e!important;
+   	border-color:#d43f3a!important;
 }
 /*Featured Listings*/
 .featured-section-wrap{
-	background-color:#000000;
 	padding:1px 0 20px 0;
 }
 .fpc-marketing{
