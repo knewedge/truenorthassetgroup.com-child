@@ -19,7 +19,7 @@ OVERRIDES
     margin-top: -32px;
 }
 .fpc-container {
-    background-color:#fff !important;
+    background-color:#f7f7f7 !important;
 }
 /*override hover button color on hero section */ 
 .btn-skin-h-dark:hover, .btn-skin-h-dark:focus, .btn-skin-h-dark:active {
