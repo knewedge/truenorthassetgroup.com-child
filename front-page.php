@@ -6,8 +6,9 @@
 ?>
 <?php get_header(); ?>
 <?php do_action('__before_main_wrapper'); ?>
-
+<!-- Removed Container
 <div class="container">
+-->
     <section class="services">
         <div class="row">
             <div class="col-md-12">
@@ -66,12 +67,11 @@
             </div>
         </div>
     </section>
-</div><!-- end container -->
-
+<!-- Removed Container
+</div>
+-->
 
 <?php get_footer(); ?>
-
-
 
 
 <?php /*
