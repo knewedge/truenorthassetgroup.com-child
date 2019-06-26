@@ -40,7 +40,7 @@
 			<h1 class="text-center">FEATURED LISTINGS</h1>
 			<?php do_action('__before_main_container'); ?>
 			<div style="text-align:center;">
-				<a id="see-all-link" href="/rapidcity/search">See all listings >></a>
+				<a class="fpc-btn fpc-btn-primary" href="/rapidcity/search">See all listings >></a>
 			</div>
 				</div>
 			</div>
