@@ -75,9 +75,9 @@ a.btn-danger{
    	border-color:#d43f3a!important;
 }
 /*Featured Listings*/
-h4.fpc-title{
-	font-size:1em!important;
-	font-weight:bold!important;
+h4.fp-title{
+	font-size:1em;
+	font-weight:bold;
 }
 .fpc-marketing{
 	margin-bottom:2em!important;
