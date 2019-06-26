@@ -10,7 +10,8 @@
 <div class="container">
 -->
     <section class="services">
-        <div class="row">
+	<div class="container">
+	<div class="row">
             <div class="col-md-12">
                 <h1 class="text-center">OUR SERVICES</h1>
             </div>
@@ -32,7 +33,8 @@
                 <a href="/bookkeeping-business-services/"><img src="/wp-content/uploads/2019/03/service4.png"></a>
                 <h2 class="text-center">Business Services</h2>
             </div>
-        </div>
+	</div>
+	</div>
     </section>
     <section class="featured-listings">
         <div class="row">
