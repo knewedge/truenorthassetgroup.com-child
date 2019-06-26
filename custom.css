@@ -75,9 +75,8 @@ a.btn-danger{
    	border-color:#d43f3a!important;
 }
 /*Featured Listings*/
-.featured-section-wrap{
-	background-color:#f7f7f7;
-	padding:1px 0 20px 0;
+h4.fpc-title{
+	font-size:0.9em;
 }
 .fpc-marketing{
 	margin-bottom:2em!important;
