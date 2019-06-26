@@ -76,7 +76,8 @@ a.btn-danger{
 }
 /*Featured Listings*/
 h4.fpc-title{
-	font-size:0.9em;
+	font-size:1em!important;
+	font-weight:bold!important;
 }
 .fpc-marketing{
 	margin-bottom:2em!important;
