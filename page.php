@@ -11,7 +11,7 @@ if ( apply_filters( 'czr_ms', false ) ) {
 		<div class="col-md-12 listing-left">
 			<div class="row">
 				<div class="col-md-12">
-					<h2><?php the_title(); ?></h2>
+					<h2>TEST - <?php the_title(); ?></h2>
 				</div>
 			</div>
 			<div class="row">
