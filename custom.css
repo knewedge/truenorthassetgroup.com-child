@@ -215,3 +215,8 @@ h4.fp-title:after{
 	letter-spacing:1px;
 	font-size: 0.75rem!important;
 }
+
+
+button[type="submit"], input[type=submit] {
+    background: red !important;
+}

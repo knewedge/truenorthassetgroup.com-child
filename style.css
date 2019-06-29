@@ -28,10 +28,6 @@ OVERRIDES
     color: #fff!important;
 }
 
-button[type="submit"], input[type=submit] {
-    background: red !important;
-}
-
 /************---------------HEADER STILL NEEDS FIXED FOR SCROLL! */
 
 /**********************
