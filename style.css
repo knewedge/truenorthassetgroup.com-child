@@ -134,6 +134,6 @@ footer {
 footer .fa-fw {
     color:#fff;
 }
-label {
-    display: none;
+footer label {
+    display: none !important;
 }
