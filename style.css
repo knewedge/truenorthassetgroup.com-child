@@ -134,6 +134,6 @@ footer {
 footer .fa-fw {
     color:#fff;
 }
-footer label.gfield_label {
+label {
     display: none;
 }
