@@ -29,8 +29,7 @@ OVERRIDES
 }
 
 button[type="submit"], input[type=submit] {
-    background-color: #323840 !important;
-    border-color: #323840 !important;
+    background: red !important;
 }
 
 /************---------------HEADER STILL NEEDS FIXED FOR SCROLL! */
