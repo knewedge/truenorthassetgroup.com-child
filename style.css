@@ -29,8 +29,8 @@ OVERRIDES
 }
 
 .btn-skin-dark, button[type="submit"], input[type=submit], .woocommerce input#submit[class*=alt], .woocommerce input.button[class*=alt], .woocommerce a.button[class*=alt], .woocommerce button.button[class*=alt], .woocommerce input#submit.alt.disabled, .woocommerce input.button.alt.disabled, .woocommerce button.button.alt.disabled, .woocommerce a.button.alt.disabled {
-    background-color: #323840;
-    border-color: #323840;
+    background-color: #323840 !important;
+    border-color: #323840 !important;
 }
 
 /************---------------HEADER STILL NEEDS FIXED FOR SCROLL! */
