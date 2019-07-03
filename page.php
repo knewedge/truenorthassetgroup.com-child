@@ -25,6 +25,7 @@ if ( apply_filters( 'czr_ms', false ) ) {
 		</div>
 	</div>
 </div>
+<?php include "footer.php"; ?>
 <?php
 do_action( '__after_page_wrap' );
 wp_footer(); //do not remove, used by the theme and many plugins
