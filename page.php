@@ -20,6 +20,7 @@ if ( apply_filters( 'czr_ms', false ) ) {
 					global $post;
 					echo apply_filters('the_content',$post->post_content);
 					?>
+					<h1>TEST - 07/02/2019</h1>
 				</div>
 			</div>
 		</div>
