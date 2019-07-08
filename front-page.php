@@ -63,7 +63,7 @@
 					<!-- END OF ARROW SECTION -->
 					
 					<h2>Request a free management proposal or accounting report sample.</h2>
-					<p class="text-center"><a type="button" class="btn btn-red">Contact Us Today!</a></p>
+					<p class="text-center"><a href="/contact-us/" class="btn btn-red">Contact Us Today!</a></p>
 					
 				</div>
 			</div>
