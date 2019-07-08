@@ -55,11 +55,19 @@
 					<p>True North Asset Group provides property management services throughout the Black Hills. We can help you get the most return on your investment properties and take care of the day-to-day operations so you don’t have to. With our integrated approach, our team can manage and lease your properties and keep your tenants happy.</p>
 					
 					<!-- START OF ARROW SECTON -->
-					
+					<!--
 					<p class="text-center">
 						<img src="/wp-content/uploads/2019/06/property-mang.png" alt"property management">
 					</p>
-					
+					-->
+					<!-- Image Map -->
+					<img src="http://staging.truenorthassetgroup.com/wp-content/uploads/2019/06/property-mang.png" usemap="#image-map">
+
+					<map name="image-map">	
+    						<area target="_blank" alt="" title="" href="https://tnorth.twa.rentmanager.com/" coords="3,11,118,130" shape="rect">
+    						<area target="_blank" alt="" title="" href="https://tnorth.twa.rentmanager.com/applynow" coords="352,130,511,7" shape="rect">
+    						<area target="_blank" alt="" title="" href="https://tnorth.owa.rentmanager.com/" coords="714,9,903,127" shape="rect">
+					</map>
 					<!-- END OF ARROW SECTION -->
 					
 					<h2>Request a free management proposal or accounting report sample.</h2>
