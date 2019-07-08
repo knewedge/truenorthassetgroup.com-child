@@ -1,3 +1,7 @@
+/*Remove Post Footer*/
+footer.post-footer{
+	display:none;
+}
 div.row{
 	margin:0 !important;
 }
