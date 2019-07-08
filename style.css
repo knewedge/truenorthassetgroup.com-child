@@ -47,7 +47,7 @@ section {
 }
 .btn-red {
     background: #D1083E;
-    color: #fff;
+    color: #fff!important;
     font-size: 14px;
     padding: 14px 20px 14px 20px;
 }
