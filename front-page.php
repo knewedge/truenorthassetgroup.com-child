@@ -60,6 +60,7 @@
 						<img src="/wp-content/uploads/2019/06/property-mang.png" alt"property management">
 					</p>
 					-->
+					<p class="text-center">
 					<!-- Image Map -->
 					<img src="http://staging.truenorthassetgroup.com/wp-content/uploads/2019/06/property-mang.png" usemap="#image-map">
 
@@ -68,6 +69,7 @@
     						<area target="_blank" alt="" title="" href="https://tnorth.twa.rentmanager.com/applynow" coords="352,130,511,7" shape="rect">
     						<area target="_blank" alt="" title="" href="https://tnorth.owa.rentmanager.com/" coords="714,9,903,127" shape="rect">
 					</map>
+					</p>
 					<!-- END OF ARROW SECTION -->
 					
 					<h2>Request a free management proposal or accounting report sample.</h2>
