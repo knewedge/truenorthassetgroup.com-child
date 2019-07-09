@@ -106,10 +106,6 @@
 		</div>
 	</div>
 </div>
-<div id="contact-section" class="row">
-	<div class="col-md-6"><?php dynamic_sidebar('getintouch-section'); ?></div>
-	<div id="contact-second-col" class="col-md-6"><?php dynamic_sidebar('connected-section'); ?></div>
-</div>
 <?php include "footer.php"; ?>
 <?php
 do_action( '__after_page_wrap' );
