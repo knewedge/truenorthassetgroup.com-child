@@ -3,7 +3,7 @@
         <div class="row footer-content">
             <div class="col-md-4">
                 <h3>ABOUT</h3>
-                <p>True North Asset Group is Rapid City’s newest commercial real estate team from Keller Williams Realty Black Hills. READ MORE .</p>
+                <p>True North Asset Group is Rapid City’s newest commercial real estate team from Keller Williams Realty Black Hills.</p>
              
                     <h3>Get Connected</h3>
                 <p>
