@@ -17,10 +17,10 @@
             </div>
             <div class="col-md-4">
                 <h3>CONTACT</h3>
-                <p><i class="fas fa-building"></i> Keller Williams Realty Black Hills 2401 W Main Street Rapid City, SD 57702</p>
+                <p><i class="fas fa-building"></i> Keller Williams Realty Black Hills<br />2401 W Main Street<br />Rapid City, SD 57702</p>
                 <p><i class="fas fa-phone"></i> (605) 343-7500</p>
                 <p><i class="fas fa-envelope"></i> contact@truenorthassetgroup.com</p>
-                <p><i class="fas fa-desktop"></i> Visit Us at Our Office: 1315 Haines Avenue, Suite C Rapid City, SD 57701</p>
+                <p><i class="fas fa-desktop"></i> Visit Us at Our Office:<br />1315 Haines Avenue, Suite C Rapid City, SD 57701</p>
             </div>
             <div class="col-md-4">
 		<h3>OUR NEWSLETTER</h3>
