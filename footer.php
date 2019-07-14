@@ -7,7 +7,7 @@
              
                     <h3>Get Connected</h3>
                 <p>
-                    <a class="footer-icons" href="https://www.facebook.com/TrueNorthAssetGroup/"><i class="fa fa-facebook fa-fw"></i></a>
+                    <a class="footer-icons" href="https://www.facebook.com/TrueNorthAssetGroup/"><i class="fab fa-facebook-square"></i></a>
                     <a class="footer-icons" target="_blank" href="https://twitter.com/AssetTrue"><i class="fa fa-twitter fa-fw"></i></a>
                     <a class="footer-icons" target="_blank" href="https://www.linkedin.com/company/true-north-asset-group/"><i class="fa fa-linkedin fa-fw"></i></a>
                     <a class="footer-icons" target="_blank" href="https://www.youtube.com/channel/UCJSFGQ9bm5nQCaDHM82q3ig"><i class="fa fa-youtube fa-fw"></i></a>
