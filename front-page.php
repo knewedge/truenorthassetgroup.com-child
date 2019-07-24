@@ -37,7 +37,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-			<h1 class="text-center">FEATURED LISTINGS</h1>
+			<h1 class="text-center">FEATURED LEASE LISTINGS</h1>
 			<?php do_action('__before_main_container'); ?>
 			<div style="text-align:center;">
 			    <a id="see-all-link" href="/rapidcity/search">See all listings >></a>
