@@ -1,3 +1,4 @@
+<?php do_action( '__before_footer' ); ?>
 <footer>
     <div class="container">
         <div class="row footer-content">
@@ -29,3 +30,8 @@
         </div>
     </div>
 </footer>
+<?php do_action( '__after_page_wrap' ); ?>
+<?php wp_footer(); ?>
+<?php do_action( '__after_footer' ); ?>
+</body>
+<?php do_action( '__after_body' ); ?>
