@@ -30,7 +30,7 @@
 }
 </style>
 <script>
-$(function(){
+$(document).ready(function(){
 	$("#com-leas-btn").click(function(){
 		alert("click lease");
 	});
