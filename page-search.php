@@ -30,11 +30,11 @@
 }
 </style>
 <script>
-$(document).ready(function(){
-	$("#com-leas-btn").click(function(){
+jQuery(document).ready(function(){
+	jQuery("#com-leas-btn").click(function(){
 		alert("click lease");
 	});
-	$("#com-sale-btn").click(function(){
+	jQuery("#com-sale-btn").click(function(){
 		alert("click sale");
 	});
 });
