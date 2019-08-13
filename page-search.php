@@ -24,4 +24,19 @@
 		</div>
 	</div>
 </div>
+<style>
+#com-leas-search, #com-sale-search{
+	display:none;
+}
+</style>
+<script>
+$(function(){
+	$("#com-leas-bntn").click(function(){
+		alert("click lease");
+	});
+	$("#com-sale-bntn").click(function(){
+		alert("click sale");
+	});
+});
+</script>
 <?php get_footer(); ?>
