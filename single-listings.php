@@ -107,11 +107,3 @@
 	</div>
 </div>
 <?php get_footer(); ?>
-<?php
-do_action( '__after_page_wrap' );
-wp_footer(); //do not remove, used by the theme and many plugins
-do_action( '__after_footer' );
-?>
-</body>
-<?php do_action( '__after_body' ); ?>
-</html>
