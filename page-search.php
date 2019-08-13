@@ -5,11 +5,8 @@
 		<div class="col-md-12">
 			<h2 class="listing-title"><?php the_title(); ?></h2>
 			<div class="row">
-				<div class="col-md-6">
-					<a href="#" id="com-leas-btn">For Lease</a>
-				</div>
-				<div class="col-md-6">
-					<a href="#" id="com-sale-btn">For Sale</a>
+				<div class="col-md-12">
+					<a class="btn btn-danger" href="#" id="com-leas-btn">For Lease</a> &nbsp; &nbsp; <a class="btn btn-danger" href="#" id="com-sale-btn">For Sale</a>
 				</div>
 			</div>
 			<div id="com-leas-search">
