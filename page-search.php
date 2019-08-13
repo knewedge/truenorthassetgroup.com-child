@@ -4,10 +4,23 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h2 class="listing-title"><?php the_title(); ?></h2>
+			<div class="row">
+				<div class="col-md-6">
+					<a href="#" id="com-leas-btn">For Lease</a>
+				</div>
+				<div class="col-md-6">
+					<a href="#" id="com-sale-btn">For Sale</a>
+				</div>
+			</div>
+			<div id="com-leas-search">
 			<?php
 			global $post;
 			echo apply_filters('the_content',$post->post_content);
 			?>
+			</div>
+			<div class="com-sale-search">
+			<?php the_field('optima_shortcode'); ?>
+			</div>
 		</div>
 	</div>
 </div>
