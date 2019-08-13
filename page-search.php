@@ -18,7 +18,7 @@
 			echo apply_filters('the_content',$post->post_content);
 			?>
 			</div>
-			<div class="com-sale-search">
+			<div id="com-sale-search">
 			<?php the_field('optima_shortcode'); ?>
 			</div>
 		</div>
@@ -31,10 +31,10 @@
 </style>
 <script>
 $(function(){
-	$("#com-leas-bntn").click(function(){
+	$("#com-leas-btn").click(function(){
 		alert("click lease");
 	});
-	$("#com-sale-bntn").click(function(){
+	$("#com-sale-btn").click(function(){
 		alert("click sale");
 	});
 });
