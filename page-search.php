@@ -24,6 +24,7 @@
 		</div>
 	</div>
 </div>
+<!-- Hide & Show Search Sections Logic -->
 <style>
 #com-leas-search, #com-sale-search{
 	display:none;
@@ -32,10 +33,12 @@
 <script>
 jQuery(document).ready(function(){
 	jQuery("#com-leas-btn").click(function(){
-		alert("click lease");
+		jQuery("#com-sale-search").hide();
+		jQuery("#com-leas-search").show();
 	});
 	jQuery("#com-sale-btn").click(function(){
-		alert("click sale");
+		jQuery("#com-leas-search").hide();
+		jQuery("#com-sale-search").show();
 	});
 });
 </script>
