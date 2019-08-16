@@ -3,20 +3,20 @@
 <div id="main-wrapper" class="section">
 	<div class="row">
 		<div class="col-md-12">
-			<h2 class="listing-title"><?php the_title(); ?></h2>
+			<h2 style="margin-bottom:2.5rem;" class="listing-title"><?php the_title(); ?></h2>
 			<div class="row">
 				<div class="col-md-12">
-					<a class="btn btn-danger" href="#" id="com-sale-btn">For Sale</a> &nbsp; &nbsp; <a class="btn btn-danger" href="#" id="com-leas-btn">For Lease</a> 
+					<a class="btn btn-danger" href="#" id="com-sale-btn">Search For Sale</a> &nbsp; &nbsp; <a class="btn btn-danger" href="#" id="com-leas-btn">Search For Lease</a> 
 				</div>
 			</div>
 			<div id="com-sale-search">
-			<h3>Commercial Properties - For Sale</h3>
-			<p>Click the <strong>For Lease</strong> button above to search commercial properties for lease.</p> 
+			<h3 style="margin-bottom:0.5rem;">Commercial Properties - For Sale</h3>
+			<div style="margin-bottom:20px;">Click the <strong>For Lease</strong> button above to search commercial properties for lease.</div> 
 			<?php the_field('optima_shortcode'); ?>
 			</div>
 			<div id="com-leas-search">
-			<h3>Commercial Properties - For Lease</h3>
-			<p>Click the <strong>For Sale</strong> button above to search commerical properties for sale.</p>
+			<h3 style="margin-bottom:0.5rem;">Commercial Properties - For Lease</h3>
+			<div style="margin-bottom:20px;">Click the <strong>For Sale</strong> button above to search commerical properties for sale.</div>
 			<?php
 			global $post;
 			echo apply_filters('the_content',$post->post_content);
