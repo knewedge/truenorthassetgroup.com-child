@@ -11,12 +11,12 @@
 			</div>
 			<div id="com-sale-search">
 			<h3 style="margin-bottom:0.5rem;">Commercial Properties - For Sale</h3>
-			<div style="margin-bottom:20px;">Click the <strong>For Lease</strong> button above to search commercial properties for lease.</div> 
+			<div style="margin-bottom:20px;">Click the <strong>Search For Lease</strong> button above to search commercial properties for lease.</div> 
 			<?php the_field('optima_shortcode'); ?>
 			</div>
 			<div id="com-leas-search">
 			<h3 style="margin-bottom:0.5rem;">Commercial Properties - For Lease</h3>
-			<div style="margin-bottom:20px;">Click the <strong>For Sale</strong> button above to search commerical properties for sale.</div>
+			<div style="margin-bottom:20px;">Click the <strong>Search For Sale</strong> button above to search commerical properties for sale.</div>
 			<?php
 			global $post;
 			echo apply_filters('the_content',$post->post_content);
