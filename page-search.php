@@ -23,7 +23,7 @@
 </div>
 <!-- Hide & Show Search Sections Logic -->
 <style>
-#com-leas-search, #com-sale-search{
+#com-leas-search{
 	display:none;
 }
 </style>
