@@ -9,14 +9,18 @@
 					<a class="btn btn-danger" href="#" id="com-sale-btn">For Sale</a> &nbsp; &nbsp; <a class="btn btn-danger" href="#" id="com-leas-btn">For Lease</a> 
 				</div>
 			</div>
+			<div id="com-sale-search">
+			<h3>Commercial Properties - For Sale</h3>
+			<p>Click the <strong>For Lease</strong> button above to search commercial properties for lease.</p> 
+			<?php the_field('optima_shortcode'); ?>
+			</div>
 			<div id="com-leas-search">
+			<h3>Commercial Properties - For Lease</h3>
+			<p>Click the <strong>For Sale</strong> button above to search commerical properties for sale.</p>
 			<?php
 			global $post;
 			echo apply_filters('the_content',$post->post_content);
 			?>
-			</div>
-			<div id="com-sale-search">
-			<?php the_field('optima_shortcode'); ?>
 			</div>
 		</div>
 	</div>
