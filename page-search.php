@@ -6,7 +6,7 @@
 			<h2 class="listing-title"><?php the_title(); ?></h2>
 			<div class="row">
 				<div class="col-md-12">
-					<a class="btn btn-danger" href="#" id="com-leas-btn">For Lease</a> &nbsp; &nbsp; <a class="btn btn-danger" href="#" id="com-sale-btn">For Sale</a>
+					<a class="btn btn-danger" href="#" id="com-sale-btn">For Sale</a> &nbsp; &nbsp; <a class="btn btn-danger" href="#" id="com-leas-btn">For Lease</a> 
 				</div>
 			</div>
 			<div id="com-leas-search">
