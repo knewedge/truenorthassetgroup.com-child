@@ -5,9 +5,9 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h2 style="margin-bottom:2.5rem;" class="listing-title"><?php the_title(); ?></h2>
-			<?php
-			echo $_SERVER['QUERY_STRING'];
-			?>	
+			<?php if(strpos($_SERVER['QUERY_STRING'], "tyType=COM") > 0){ ?>
+			<a class="btn btn-danger" href="/property-search/?search=lease" id="com-sale-btn">Search Commercial Properties For Lease</a>
+			<?php } ?>
 			<!--
 			<div class="row">
 				<div class="col-md-12">
