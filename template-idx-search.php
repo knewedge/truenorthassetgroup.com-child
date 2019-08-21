@@ -7,6 +7,8 @@
 			<h2 style="margin-bottom:2.5rem;" class="listing-title"><?php the_title(); ?></h2>
 			<?php if(strpos($_SERVER['QUERY_STRING'], "tyType=COM") > 0){ ?>
 			<a class="btn btn-danger" href="/property-search/?search=lease" id="com-sale-btn">Search Commercial Properties For Lease</a>
+			<?php }else if($_GET['search'] == "LEASE"){ ?>
+			<a class="btn btn-danger" href="/property-search/?propertyType=COM&propertyType=LL&propertyType=RI&status=active" id="com-sale-btn">Search Commercial Properties For Sale</a>		
 			<?php } ?>
 			<!--
 			<div class="row">
