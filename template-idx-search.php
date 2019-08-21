@@ -5,6 +5,9 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h2 style="margin-bottom:2.5rem;" class="listing-title"><?php the_title(); ?></h2>
+			<?php
+			echo $_SERVER['QUERY_STRING'];
+			?>	
 			<!--
 			<div class="row">
 				<div class="col-md-12">
