@@ -6,55 +6,26 @@
 		<div class="col-md-12">
 			<h2 style="margin-bottom:2.5rem;" class="listing-title"><?php the_title(); ?></h2>
 			<?php if(strpos($_SERVER['QUERY_STRING'], "tyType=COM") > 0){ ?>
-			<a class="btn btn-danger" href="/property-search/?search=lease" id="com-sale-btn">Search Commercial Properties For Lease</a>
-			<?php }else if(strpos($_SERVER['QUERY_STRING'], "arch=lease") > 0){ ?>
-			<a class="btn btn-danger" href="/property-search/?propertyType=COM&propertyType=LL&propertyType=RI&status=active" id="com-sale-btn">Search Commercial Properties For Sale</a>		
-			<?php } ?>
-			<!--
-			<div class="row">
-				<div class="col-md-12">
-					<a class="btn btn-danger" href="#" id="com-sale-btn">Search For Sale</a> &nbsp; &nbsp; <a class="btn btn-danger" href="#" id="com-leas-btn">Search For Lease</a> 
-				</div>
-			</div>
-			-->
-			<!--
-			<div id="com-sale-search">
-			<h3 style="margin-bottom:0.5rem;">Commercial Properties - For Sale</h3>
-			<div style="margin-bottom:20px;">Click the <strong>Search For Lease</strong> button above to search commercial properties for lease.</div> 
-			<?php //the_field('optima_shortcode'); ?>
-			</div>
-			-->
-			<div id="com-leas-search">
-			<!--
-			<h3 style="margin-bottom:0.5rem;">Commercial Properties - For Lease</h3>
-			<div style="margin-bottom:20px;">Click the <strong>Search For Sale</strong> button above to search commerical properties for sale.</div>
-			-->
+			<a style="margin-bottom:20px;" class="btn btn-danger" href="/property-search/?search=lease" id="com-sale-btn">Search Commercial Properties For Lease</a>
 			<?php
 			global $post;
 			echo apply_filters('the_content',$post->post_content);
 			?>
-			</div>
+			<?php }else if(strpos($_SERVER['QUERY_STRING'], "arch=lease") > 0){ ?>
+			<a style="margin-bottom:20px;" class="btn btn-danger" href="/property-search/?propertyType=COM&propertyType=LL&propertyType=RI&status=active" id="com-sale-btn">Search Commercial Properties For Sale</a>		
+			<?php
+			echo do_shortcode('[searchandfilter id="1052"]');
+			echo do_shortcode('[searchandfilter id="1052" action="filter_next_query"]');
+			echo do_shortcode('[post_grid id="1064"]');
+			?>
+			<?php } ?>
 		</div>
 	</div>
 </div>
 <!-- Hide & Show Search Sections Logic -->
 <style>
-#com-leas-search{
-	/*display:none;*/
+a.btn-danger:hover{
+	color:#ffffff;
 }
 </style>
-<script>
-/*
-jQuery(document).ready(function(){
-	jQuery("#com-leas-btn").click(function(){
-		jQuery("#com-sale-search").hide();
-		jQuery("#com-leas-search").show();
-	});
-	jQuery("#com-sale-btn").click(function(){
-		jQuery("#com-leas-search").hide();
-		jQuery("#com-sale-search").show();
-	});
-});
-*/
-</script>
 <?php get_footer(); ?>
