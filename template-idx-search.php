@@ -1,3 +1,4 @@
+<?php /* Template Name: IDX Search Page */ ?>
 <?php get_header(); ?>
 <?php do_action('__before_main_wrapper'); ?>
 <div id="main-wrapper" class="section">
