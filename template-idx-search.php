@@ -4,8 +4,6 @@
 <div id="main-wrapper" class="section">
 	<div class="row">
 		<div class="col-md-12">
-			<h2 style="margin-bottom:2.5rem;" class="listing-title"><?php the_title(); ?></h2>
-			<ul class="nav nav-tabs">
 			<?php if(strpos($_SERVER['QUERY_STRING'], "tyType=COM") > 0){ ?>
 			<h2 style="margin-bottom:2.5rem;" class="listing-title"><?php the_title(); ?> - Commercial</h2>
 			<ul class="nav nav-tabs">
